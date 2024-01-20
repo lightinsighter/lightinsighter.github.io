@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-751d5ca3","path":"/ailab/","title":"AI 实验室","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"createdTime":1705777716000,"updatedTime":1705777716000,"contributors":[{"name":"fuliucansheng","email":"fuliucansheng@gmail.com","commits":1}]},"filePathRelative":"ailab/README.md"}');export{a as data};
